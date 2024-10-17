@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/GEIII_semaine05_02/Saved/Logs
+/GEIII_semaine05_02/Saved/Logs
+/GEIII_semaine05_02/Saved/Config
